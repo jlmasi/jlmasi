@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hexpit&theme=onedark&margin-w=5&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jlmasi&theme=onedark&margin-w=5&column=7" />
 </p>
 
 ### Hi there 👋
