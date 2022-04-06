@@ -106,3 +106,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
  Last Updated on 05/04/2022 07:47:54 UTC
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
